@@ -1,0 +1,6 @@
+framework module Pods_FoodStrock {
+  umbrella header "Pods-FoodStrock-umbrella.h"
+
+  export *
+  module * { export * }
+}
